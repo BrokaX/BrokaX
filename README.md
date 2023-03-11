@@ -4,9 +4,9 @@
 <div align="center">
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brokax&show_icons=true&theme=transparent&hide_progress=true&layout=compact"  height="200"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokax&theme=transparent&hide=shell&layout=compact" height="200"/>
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brokax&show_icons=true&theme=transparent&hide_progress=true&layout=compact" height="180px  width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brokax&theme=transparent&hide=shell&layout=compact" height="180px width="45%" />
+</div> 
 
 #### Skills
 
