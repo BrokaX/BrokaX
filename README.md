@@ -2,7 +2,7 @@
 
 <p align="center">   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="100" />   <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="100" />    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="100" />   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="100" /> </p>
 
- <p align="justify">I am a Full Stack web developer specializing in using the MERN stack, which includes MongoDB, Express.js, React, and Node.js, to create modern and responsive web applications. With experience in both front-end and back-end development, I can design and implement RESTful APIs, integrate with third-party services and tools, and optimize web applications for performance and scalability.</p>
+ <p align="justify">I am a Full Stack web developer specialized in using the MERN stack, which includes MongoDB, Express.js, React, and Node.js, to create modern and responsive web applications. With experience in both front-end and back-end development, I can design and implement RESTful APIs, integrate with third-party services and tools, and optimize web applications for performance and scalability.</p>
 <div align="center">
 
  ---
