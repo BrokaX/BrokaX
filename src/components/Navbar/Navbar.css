@@ -1,8 +1,10 @@
 .navbar-container{
   display: flex;
   width: 100vw;
+  position: fixed;
   align-items: center;
   justify-content: space-between;
+  background: rgba(78, 78, 78, 0.753);
 }
 .app-logo{
   height:4rem;

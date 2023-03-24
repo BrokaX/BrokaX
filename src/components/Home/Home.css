@@ -1,0 +1,12 @@
+.home-page{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),url('../../assets/bgmain.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.home-logo{
+  padding-top: 10%;
+}
