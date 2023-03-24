@@ -1,5 +1,6 @@
 import React from 'react'
-import logo from '../assets/logo.png'
+import './Home.css'
+import logo from '../../assets/logo.png'
 function Home() {
   return (
     <div className='home-page'>
